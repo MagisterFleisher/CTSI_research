@@ -1,0 +1,1002 @@
+aid,attribute
+1,""
+2,*
+3,A Coruna
+4,AA
+5,AB
+6,AC
+7,ACT
+8,AE
+9,AK
+10,AL
+11,AM
+12,AP
+13,AR
+14,AS
+15,AZ
+16,Abaco
+17,Aberdeen
+18,Abruzzo
+19,Abu Dhabi
+20,Accra
+21,Acores
+22,Acre
+23,Ad Daqahliyah
+24,Agadir
+25,Ags
+26,Ahvaz
+27,Aichi
+28,Al Ahsa
+29,Alagoas
+30,Alger
+31,Alicante
+32,Almeria
+33,Alor Gajah
+34,Alta Verapaz
+35,Alzette
+36,Amapa
+37,Amazonas
+38,Amur Region
+39,An Giang
+40,Anco n
+41,Ancon
+42,Ancon Aa
+43,Ancona
+44,Andalucia
+45,Andaman & Nicob
+46,Andhra Prades
+47,Andhra Pradesh
+48,Angra Do Herois
+49,Anguilla
+50,Anhui
+51,Anhui Province
+52,Antarctic Provi
+53,Antioquia
+54,Antrim
+55,Anzoategui
+56,Aomori
+57,Apurimac
+58,Aquitaine
+59,Aragon
+60,Aragua State
+61,Ardabil Provinc
+62,Argyll
+63,Assam
+64,Asturias
+65,Atlantico
+66,Attiki
+67,Attikis
+68,Avon
+69,Ayutthaya
+70,Azad Kashmir
+71,Azores
+72,BA
+73,BC
+74,BCS
+75,BE
+76,BI
+77,BO
+78,BR
+79,BS
+80,Bad Berska
+81,Baden Wurttembe
+82,Baden Wuttermbe
+83,Bahia
+84,Baja Calif Sur
+85,Baja California
+86,Balearic Island
+87,Bali
+88,Barat
+89,Barcelona
+90,Barquisimeto
+91,Bashkortostan
+92,Basque Country
+93,Bavaria
+94,Bcs
+95,Beauvoir Sur Ni
+96,Beds
+97,Beibei
+98,Beijing Shi
+99,Belarus
+100,Belgaum
+101,Bengaluru
+102,Beni
+103,Berks
+104,Bihar
+105,Billancourt
+106,Birgunj
+107,Biscay
+108,Bizhaia
+109,Bizkaia
+110,Bolivar
+111,British Virgin
+112,British West In
+113,Bucks
+114,Buenos Aires
+115,Bulawayo
+116,Bursa
+117,Burwood
+118,Buskerud
+119,CA
+120,CB
+121,CE
+122,CH
+123,CN
+124,CO
+125,CS
+126,CT
+127,Cadiz
+128,Cagliari
+129,Cairo Governora
+130,Caldas
+131,Caldes De Montb
+132,Cambridgeshire
+133,Cambs
+134,Campeche
+135,Canary Islands
+136,Canelones
+137,Cantabria
+138,Caparica
+139,Capoterra
+140,Carrickfergus
+141,Cartago
+142,Casilla
+143,Castle Douglas
+144,Catalao
+145,Catalonia
+146,Catalunya
+147,Cayman Islands
+148,Cb
+149,Cdmx
+150,Cdp
+151,Ceara
+152,Cebu
+153,Centrafrique
+154,Central Distric
+155,Central Kaliman
+156,Central Region
+157,Cerdanyola Del
+158,Ceredigion
+159,Chang Wat Songk
+160,Channel Isl
+161,Cheongwon Gun
+162,Cheshire
+163,Chhattisgarh
+164,Chiapas
+165,Chiba
+166,Chih
+167,Chilly Mazarin
+168,Chinchina
+169,Chonbuk
+170,Chonburi
+171,Choongchungnam
+172,Christ Church
+173,Chubut
+174,Chung Buk
+175,Chungbuk
+176,Chungceongnam D
+177,Chungcheongbuk
+178,Chungcheongnam
+179,Chungnam
+180,Ciego De Avila
+181,Cienfuegos
+182,Ciudad La Haban
+183,Clack
+184,Cleveland
+185,Cluj
+186,Co Kildare
+187,Coahuila
+188,Cochabamba
+189,Col
+190,Colombies
+191,Como
+192,Copenhagen
+193,Coquimbo
+194,Cordemex
+195,Cordoba
+196,Cork
+197,Cornwall
+198,Corrientes
+199,Cotonou
+200,Crete
+201,Crimea
+202,Csongrad
+203,Culiacan
+204,Culiacan Sinalo
+205,Cumana
+206,Cumbria
+207,Cundinamarca
+208,Cuzco
+209,DC
+210,DE
+211,DF
+212,DN
+213,DR
+214,Daejeon
+215,Ddi
+216,Dea Jeon
+217,Derby
+218,Derbyshire
+219,Devon
+220,Dianalund
+221,Dinajpur
+222,Distrito Federa
+223,Diyala
+224,Dki Jakarta
+225,Doha
+226,Dorset
+227,Dozule
+228,Dubai
+229,Durham
+230,Dutch Caribbean
+231,Dyfed
+232,E Anglia
+233,E Sussex
+234,EN
+235,ES
+236,EU
+237,East Kalimantan
+238,East Midlands
+239,Eastern Cape
+240,Eastern Provinc
+241,Edo De Mex
+242,Edo De Mexico
+243,Edo Mex
+244,Ehime
+245,El Leonsito
+246,El Oro
+247,El Oro Province
+248,Eleuthera
+249,Entre Rios
+250,Enugu
+251,Eskisehir
+252,Esperanza
+253,Espirito Santo
+254,Essex
+255,Estado Bolivar
+256,Estado De Mexic
+257,Estado Lara
+258,Estado Mexico
+259,Estado Portugue
+260,FE
+261,FG
+262,FI
+263,FL
+264,FR
+265,Faial
+266,Falkirk
+267,Faroe Islands
+268,Fars
+269,Federal Mexico
+270,Fife
+271,Fijian
+272,Fiorentino
+273,Firenze
+274,Fl Hcld
+275,Flemish Brabant
+276,Fpo Ap
+277,Francisco Moraz
+278,Frankfurt
+279,French Guiana
+280,Fu Jian
+281,FuJian
+282,Fujian
+283,Fujian Province
+284,Fukui
+285,Fukui Prefectur
+286,Fukuoka
+287,Fukushima
+288,Futuroscope
+289,GA
+290,GD
+291,GE
+292,GIFU
+293,GN
+294,GO
+295,GU
+296,Galapagos
+297,Galapagos Archi
+298,Galapagos Islan
+299,Galecia
+300,Galicia
+301,Galway
+302,Gandhinagar
+303,Gangwon
+304,Gangwon Do
+305,Gangwond Do
+306,Gansu
+307,Gansu Province
+308,Garhwal
+309,Gauteng
+310,Gifu
+311,Gipuzkoa
+312,Girona
+313,Giza
+314,Giza Governorat
+315,Glos
+316,Go
+317,Goa
+318,Golm
+319,Gora
+320,Granada
+321,Greater Manches
+322,Gto
+323,Guadeloupe
+324,Guanacaste
+325,Guanajuato
+326,Guangdong
+327,Guangxi
+328,Guanxi
+329,Guayas
+330,Guayas Province
+331,Guizhou
+332,Guizhou Provinc
+333,Gujarat
+334,Gulshan
+335,Gumma
+336,Gunma
+337,Guongdong
+338,Gurgaon
+339,Gwynedd
+340,Gyeongbuk
+341,Gyeongbuk Do
+342,Gyeonggi
+343,Gyeonggi Do
+344,Gyeonggido
+345,Gyeongnam
+346,Gyeongsang
+347,Gyeongsang Namd
+348,Gyeongsangbuk D
+349,Gyeongsangnam D
+350,Gyounggi
+351,Gyounggi Prov
+352,Gyoungnam
+353,Gyunggi
+354,Gyunggi Prov
+355,HI
+356,HP
+357,HUS
+358,Habana
+359,Hainan
+360,Hainan Province
+361,Hants
+362,Haryana
+363,Hatay
+364,Hebei
+365,Hebei Province
+366,Hei Longjiang
+367,Heilongjian
+368,Heilongjiang
+369,Heilongjiang Pe
+370,Heilongjiang Pr
+371,Hellas
+372,Henan
+373,Henan Province
+374,Hereford
+375,Herts
+376,Hesse
+377,Hessen
+378,Hgo
+379,Hidalgo
+380,High Wycombe
+381,Himachal Prades
+382,Hiroshima
+383,Hitchin
+384,Hohhot
+385,Hokkaido
+386,Holland
+387,Hong Kong
+388,Horokanai
+389,Hualien County
+390,Hubei
+391,Hubei Province
+392,Huelva
+393,Humberside
+394,Hunan
+395,Hurlingham
+396,Hus
+397,Hyogo
+398,IA
+399,ID
+400,IE
+401,IL
+402,IN
+403,IS
+404,IT
+405,IV Region
+406,Ibaraki
+407,Ile De France
+408,Ile De La Reuni
+409,Ilfov
+410,Imbabura
+411,Imo State
+412,Inner Mongolia
+413,Insel Riems
+414,Ishikawa
+415,Islas Canarias
+416,Istanbul
+417,Iwate
+418,JL
+419,JS
+420,Jahor
+421,Jalisco
+422,Jammu & Kashmir
+423,Java Barat
+424,Jazan Health Re
+425,Jeju Do
+426,Jeju Special Se
+427,Jeollabuk
+428,Jeollabuk Do
+429,Jeollanam Do
+430,Jeollanamdo
+431,Jeonbuk
+432,Jeonnam
+433,Jharkhand
+434,Jharkhand State
+435,Jiangsu
+436,Jiangsu Provinc
+437,Jiangxi
+438,Jilin
+439,Jilin Province
+440,Jixian County
+441,Juiz De Fora
+442,Jujuy
+443,KPK
+444,KS
+445,KY
+446,KZN
+447,Kagawa
+448,Kagoshima
+449,Kajang
+450,Kalamata
+451,Kaluga Region
+452,Kanagawa
+453,Kanchanaburi
+454,Kangwon Do
+455,Karnataka
+456,Kashmir
+457,Kayin State
+458,Kedah
+459,Kelantan
+460,Kent
+461,Kerala
+462,Khyber Pakhtunk
+463,Kildare
+464,Kinshasa
+465,Kobenhavn
+466,Kocaeli
+467,Kochi
+468,Kola Peninsula
+469,Konkoly Thege M
+470,Kritipur
+471,Kunming
+472,Kurdistan Regio
+473,KwaZulu Natal
+474,Kwazulu Natal
+475,Kyongnam
+476,Kyoto
+477,Kyungki Do
+478,Kyungnam
+479,Kyushu
+480,Kzn
+481,LA
+482,LC
+483,LE
+484,LN
+485,La Cruz
+486,La Libertad
+487,La Palma
+488,La Pampa
+489,La Pintana Sant
+490,La Reunion
+491,Lagos State
+492,Laguna
+493,Lamia
+494,Lanark
+495,Lancs
+496,Languedoc Rouss
+497,Lara
+498,Las Palmas
+499,Lecco
+500,Leics
+501,Leningrad Regio
+502,Les Cayes
+503,Liaoning
+504,Liaoning Provin
+505,Libreville
+506,Lido
+507,Lifou
+508,Limpopo
+509,Limpopo Provinc
+510,Lincoln
+511,Lincs
+512,Llanfairfechan
+513,Loja
+514,Londonderry
+515,Lorestan
+516,Loreto
+517,Louth
+518,Lower Saxony
+519,Lushan
+520,Lyon
+521,MA
+522,MB
+523,MC
+524,MD
+525,ME
+526,MG
+527,MI
+528,MN
+529,MO
+530,MP
+531,MS
+532,MT
+533,MV
+534,Macao
+535,Macau
+536,Macerata
+537,Madhya Pradesh
+538,Madre De Dios
+539,Madre de Dios
+540,Madrid
+541,Magallanes Prov
+542,Magnissia
+543,Magurele
+544,Maharashtra
+545,Mahasarakham
+546,Mahe
+547,Main
+548,Maizieres Les M
+549,Makkah
+550,Malaga
+551,Mallorca
+552,Mamo
+553,Manauli
+554,Manawatu
+555,Manipur
+556,Manzini
+557,Maranhao
+558,Markos
+559,Martinique
+560,Mashhad
+561,Matieland
+562,Mato Grosso
+563,Mayo
+564,Mazandaran
+565,Mazanderan Prov
+566,Meath
+567,Medinah
+568,Meghalaya
+569,Merida
+570,Merseyside
+571,Mersin
+572,Metro Manila
+573,Mex
+574,Miaoli Cty
+575,Michoacan
+576,Middx
+577,Midlothian
+578,Mie
+579,Miranda
+580,Misan
+581,Misiones
+582,Miyagi
+583,Miyazaki
+584,Mohanpur
+585,Mongolia
+586,Monte Da Capari
+587,Monterrey
+588,Montes De Oca
+589,Montes Oca
+590,Mor
+591,Morelos
+592,Moscow
+593,Moscow Dist
+594,Moscow Region
+595,Moskovskaya Obl
+596,Mpumalanga
+597,Mugla
+598,Murcia
+599,Murshidabad
+600,N Cyprus
+601,N Humberside
+602,N Yorkshire
+603,""
+604,NB
+605,NC
+606,ND
+607,NE
+608,NF
+609,NH
+610,NJ
+611,NL
+612,NM
+613,NS
+614,NSW
+615,NT
+616,NV
+617,NY
+618,NZ
+619,Na
+620,Nafarroa
+621,Nagano
+622,Nagar
+623,Nagasaki
+624,Nainital
+625,Nakhon Pathom
+626,Nakhon Si Thamm
+627,Nanakuma
+628,Napo
+629,Nara
+630,Navarra
+631,Navarre
+632,Nayarit
+633,Ncr
+634,Neston
+635,Nethereate
+636,Neuherberg
+637,Neuquen
+638,New Caledonia
+639,Newport
+640,Niigata
+641,Ningxia
+642,Ningxia Hui Aut
+643,Nizhny Novgorod
+644,Nonthaburi
+645,Nord Kivu
+646,Nordrhein Westf
+647,Norfolk
+648,North Cotabato
+649,North Cyprus
+650,North Holland
+651,North Sumatra
+652,Northants
+653,Northern Cyprus
+654,Northwest Terri
+655,Notts
+656,Nouvelle Caledo
+657,Novgorod
+658,Novosibirsk Obl
+659,Nrw
+660,Nuevo Leon
+661,Nyanza Province
+662,OH
+663,OK
+664,ON
+665,OR
+666,Oaxaca
+667,Oberursel
+668,Odisa
+669,Odisha
+670,Ogun State
+671,Oita
+672,Okayama
+673,Okehampton
+674,Okinawa
+675,Olancho
+676,Ondo State
+677,Orange Walk
+678,Orissa
+679,Oristano
+680,Orlova Roscha
+681,Oromia
+682,Osaka
+683,Osun State
+684,Ot Bergholz Reh
+685,Ot Golm
+686,Ouvea
+687,Overijssel
+688,Oxon
+689,Oyo State
+690,PA
+691,PALESTINIAN AUT
+692,PB
+693,PC
+694,PD
+695,PE
+696,PI
+697,PQ
+698,PR
+699,PV
+700,Palangka Raya
+701,Pallanza
+702,Pando
+703,Para
+704,Paraiba
+705,Paramaribo
+706,Parana
+707,Paraskevi
+708,Pasaia
+709,Pasco
+710,Pastaza
+711,Patagonia
+712,Pathum Thani
+713,Pathumthani
+714,Patumtani
+715,Pe
+716,Pehsawar
+717,Penang
+718,Perak
+719,Perlis
+720,Pernambuco
+721,Peten
+722,Piaui
+723,Pichincha
+724,Pinar Del Rio
+725,Pingtung
+726,Pingtung County
+727,Plateau State
+728,Playa
+729,Playa Ancha Val
+730,Polynesie Franc
+731,Pontevedra
+732,Port Au Prince
+733,Portuguesa
+734,Prague
+735,Prishtine
+736,Prov Gyunggi
+737,Provincia Auton
+738,Pue
+739,Puebla
+740,Puerto Rico
+741,Punjab
+742,Puntarenas
+743,Q Roo
+744,QLD
+745,Qinghai
+746,Qld
+747,Qro
+748,Queensland
+749,Queretaro
+750,Quintana Roo
+751,Quito
+752,RI
+753,RJ
+754,RM
+755,RN
+756,RO
+757,RR
+758,RS
+759,Raas
+760,Rajasthan
+761,Razavi Khorasan
+762,Real
+763,Red Sea
+764,Region De Los R
+765,Region Metropol
+766,Region Southern
+767,Regional Catala
+768,Renfrew
+769,Reunion
+770,Rhone Alps
+771,Riberalta
+772,Rio De Janeiro
+773,Rio Grande Do S
+774,Rio Grande Sul
+775,Rio Negro
+776,Risaralda
+777,Risraralda
+778,Roma
+779,Rome
+780,Rondonia
+781,Roraima
+782,Russky Island
+783,S Cambs
+784,S Glam
+785,S Yorkshire
+786,SA
+787,SB
+788,SC
+789,SD
+790,SE
+791,SK
+792,SP
+793,Saale
+794,Sabah
+795,Sacatepequez
+796,Saclay
+797,Saga
+798,Saint Kitts & N
+799,Saitama
+800,Sakha Republic
+801,Salerno
+802,Salle
+803,Salta
+804,Salto
+805,San Isidro
+806,San Luis Potosi
+807,Santa Catarina
+808,Santa Cruz
+809,Santa Cruz De L
+810,Santa Cruz De T
+811,Santa Fe
+812,Santa Marta
+813,Santander
+814,Santiago
+815,Santiago De Chi
+816,Santiago De Cub
+817,Santiago Del Es
+818,Sao
+819,Sao Paulo
+820,Sarawak
+821,Sargodha
+822,Sas Nagar
+823,Satara
+824,Satya Nagar
+825,Sejong
+826,Selangor
+827,Selangor DE
+828,Selangor Darul
+829,Seocheon Gun
+830,Seoul
+831,Sergipe
+832,Shaanxi
+833,Shaanxi Provinc
+834,Shadong
+835,Shandong
+836,Shangdong
+837,Shanghai
+838,Shannxi
+839,Shanxi
+840,Shanxi Province
+841,Sharkia
+842,Shiga
+843,Shimane
+844,Shizuoka
+845,Shrops
+846,Siberia
+847,Sichuan
+848,Sichuan Provinc
+849,Sinaloa
+850,Skane
+851,Slp
+852,Somerset
+853,Songkhla
+854,Sonora
+855,Sorbonne Paris
+856,Sousse
+857,South Gyeongsan
+858,South Lanarkshi
+859,South Wirral
+860,St Ann
+861,St Girons
+862,St Kitts
+863,St Michael
+864,St Paul Lez Dur
+865,St Petersburg
+866,Stadt Seeland
+867,Staffs
+868,Stavanger
+869,Stavelot
+870,Suchdol
+871,Sucre
+872,Suffolk
+873,Surrey
+874,Swierk
+875,Swp
+876,TN
+877,TO
+878,TP
+879,TS
+880,TX
+881,Taastrup
+882,Tabasco
+883,Tahiti
+884,Talawakelle
+885,Tamaulipas
+886,Tamil Nadu
+887,Taoyuan County
+888,Taoyuan Cty
+889,Tartu County
+890,Tas
+891,Tatarstan
+892,Tekirdag
+893,Telangana
+894,Telangana State
+895,Temuco
+896,Tenerife
+897,Teramo
+898,Terengganu
+899,Texcoco
+900,Texel
+901,The Capital
+902,The Lime
+903,Thesalloniki
+904,Thuringen
+905,Tianjin
+906,Tierra Del Fueg
+907,Tigray
+908,To
+909,Tocantins
+910,Tochigi
+911,Tokushima
+912,Tokyo
+913,Toledo
+914,Torino
+915,Tottori
+916,Toyama
+917,Trento
+918,Tucuman
+919,Turks & Caicos
+920,Tyne & Wear
+921,Tyumen Oblast
+922,UP
+923,UT
+924,Upper
+925,Uttar Pradesh
+926,Uttarakhand
+927,VA
+928,VB
+929,VI
+930,VT
+931,Valencia
+932,Valenciana
+933,Valenciennes
+934,Valle Del Cauca
+935,Varese
+936,Vasterbotten
+937,Vaud
+938,Veracruz
+939,Vic
+940,Vientiane
+941,Villa Clara
+942,Villavicencio
+943,Vina Del Mar
+944,Vitacura Santia
+945,Vizcaya
+946,Volos
+947,Vully
+948,W Bengal
+949,W Glam
+950,W Midlands
+951,W Sussex
+952,W Yorkshire
+953,WA
+954,WB
+955,WI
+956,WV
+957,WY
+958,Warwick
+959,Washington
+960,West Bengal
+961,West Indies
+962,West Java
+963,West Kalimantan
+964,West Lothian
+965,West Papua
+966,West Sumatra
+967,Western Provinc
+968,Westminster
+969,Wexford
+970,Wicklow
+971,Wilton
+972,Wilts
+973,Wiltshire
+974,Winscombe
+975,Worcester
+976,Xiangshan
+977,Xinjiang
+978,Xinjiang Uygur
+979,Xuzhou
+980,YT
+981,Yamagata
+982,Yamaguchi
+983,Yamanashi
+984,Yangon
+985,Yannan
+986,Yorks
+987,Yuc
+988,Yucatan
+989,Yunan Province
+990,Yunnan
+991,Yunnan Province
+992,ZZ
+993,Zamora
+994,Zbraslav
+995,Zheiang
+996,Zhejian
+997,Zhejiang
+998,Zhukovsky
+999,Zomora
+1000,Zulia
+1001,attribute

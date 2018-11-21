@@ -1,0 +1,15 @@
+id,attribute,filename,type,att_filename
+1,name,data/new/nid_name.csv,node,data/new/aid_name.csv
+2,city,data/new/nid_city.csv,node,data/new/aid_city.csv
+3,country,data/new/nid_country.csv,node,data/new/aid_country.csv
+4,department,data/new/nid_department.csv,node,data/new/aid_department.csv
+5,firstname,data/new/nid_firstname.csv,node,data/new/aid_firstname.csv
+6,lastname,data/new/nid_lastname.csv,node,data/new/aid_lastname.csv
+7,journal,data/new/nid_journal.csv,node,data/new/aid_journal.csv
+8,keyword,data/new/nid_keyword.csv,node,data/new/aid_keyword.csv
+9,state,data/new/nid_state.csv,node,data/new/aid_state.csv
+10,university,data/new/nid_university.csv,node,data/new/aid_university.csv
+11,groupsize,data/new/eid_groupsize.csv,edge,data/new/aid_groupsize.csv
+12,year,data/new/eid_year.csv,edge,data/new/aid_year.csv
+13,wos,data/new/eid_wos.csv,edge,data/new/aid_wos.csv
+14,month,data/new/eid_month.csv,edge,data/new/aid_month.csv
